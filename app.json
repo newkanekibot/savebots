@@ -4,12 +4,12 @@
     "logo": "",
     "keywords": [
         "telegram",
-        "Save restricted content",
+        "Save content",
         "bot"
     ],
     "repository": "https://github.com/newkanekibot/savebots",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/Killerbee87",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
