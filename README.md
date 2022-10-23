@@ -43,7 +43,8 @@ Deploy your bot on `heroku`
 - Star the repo, and fork it in desktop mode
 - Go to settings of your forked repo
 - Rename your repo by any other name
-- Click on <a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/savebots"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+- Click on 
+- <a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/savebots"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
  
 » Method - 2:
 - Star the repo, and fork it in desktop mode
